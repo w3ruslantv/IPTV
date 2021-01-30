@@ -121,3 +121,5 @@ https://srv70.filmmodu.xyz/tt2015381/720p.tr.m3u8
 https://srv24.filmmodu.xyz/tt3896198/720p.tr.m3u8
 #EXTINF:0,Cep Herkülü: Naim Süleymanoglu tvg-logo="...."
 http://cdn8.video.az/storage/movie/17/17147/video.mp4
+#EXTINF:0 tvg-logo="-----",Beyaz Kaplan
+https://srv79.filmmodu.xyz/tt6571548/720p.tr.m3u8

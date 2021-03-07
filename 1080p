@@ -123,3 +123,6 @@ http://cdn8.video.az/storage/movie/17/17147/video.mp4
 https://srv5.filmmodu.xyz/tt6723592/1080p.tr.m3u8
 #EXTINF:0 tvg-logo="-----", Jack reacher 1
 https://srv86.filmmodu.xyz/tt0790724/720p.tr.m3u8
+#EXTINF:0 tvg-logo="-----", Jack reacher 1 480p
+https://srv86.filmmodu.xyz/tt0790724/480p.tr.m3u8
+

@@ -125,4 +125,8 @@ https://srv5.filmmodu.xyz/tt6723592/1080p.tr.m3u8
 https://srv86.filmmodu.xyz/tt0790724/720p.tr.m3u8
 #EXTINF:0 tvg-logo="-----", Jack reacher 1 480p
 https://srv86.filmmodu.xyz/tt0790724/480p.tr.m3u8
+#EXTINF:0 tvg-logo="-----", CINLI SATICI 480P
+https://s47.aparat.cam/hls/aoqo67pezsr5fwfuhzfrcpkac3t3flyoeqzys3kb4maidnc3lxix7on4gmqq/index-v1-a1.m3u8
+#EXTINF:0 tvg-logo="-----", CINLI SATICI 720P
+https://s47.aparat.cam/hls/aoqo67pezsr5fwfuhzfrcpkac3t3flyoeqzys3kb4wlibnc3lxi7wfqbtpba/index-v1-a1.m3u8
 

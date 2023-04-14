@@ -1,1 +1,5 @@
-
+#EXTM3U
+#EXTINF:-1 tvg-ID="equidialive.fr" tvg-name="FRA - EQUIDIA LIVE HEVC" tvg-logo="http://logourl.net/COBRALOGO/FRANCE/EquidiaLive.png" group-title="FR| SPORTS",FRA - EQUIDIA LIVE HEVC
+http://line.gol-pro.com:80/R2uslan3465/A80065/130946
+#EXTINF:-1 tvg-ID="equidialive.fr" tvg-name="FRA - EQUIPE 21 HEVC" tvg-logo="http://logourl.net/COBRALOGO/FRANCE/LEquipe21.png" group-title="FR| SPORTS",FRA - EQUIPE 21 HEVC
+http://line.gol-pro.com:80/R2uslan3465/A80065/130943
